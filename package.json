@@ -1,5 +1,9 @@
 {
-  "name": "wikipedia-api",
+  "name": "@roberto0arruda/wikipedia-api",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roberto0arruda/wikipedia-api.git"
+  },
   "version": "1.0.0",
   "description": "a Wikipedia Api Wrapper with Node",
   "main": "index.js",
